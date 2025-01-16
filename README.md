@@ -1,1 +1,1 @@
-# -Deep-Learning-Based-MNIST-Digit-Classifier
+# Deep-Learning-Based-MNIST-Digit-Classifier
